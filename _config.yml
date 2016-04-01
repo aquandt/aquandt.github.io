@@ -20,12 +20,12 @@ markdown: kramdown
 
 # Collections
 collections: 
-- faq
-  output: true
-  permalink: /faq/:path/
-- quick_start
-  output: true
-  permalink: /quick_start/:path/
-- development
-  output: true
-  permalink: /development/:path/
+  faq
+    output: true
+    permalink: /faq/:path/
+  quick_start
+    output: true
+    permalink: /quick_start/:path/
+  development
+    output: true
+    permalink: /development/:path/
