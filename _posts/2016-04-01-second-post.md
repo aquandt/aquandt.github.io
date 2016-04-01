@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-04-01 15:03:41 -0500
-categories: jekyll update
+title:  "My Second Post"
+date:   2016-04-01
+categories: news
 author: Aaron 
 ---
 
